@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
-<Document>
-  <name>Point.kml</name>
-  <Placemark>
-    <name>Amsterdam</name>
-    <description>Point In Amsterdam .</description>
-    <Style>
-      <Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon>
-    </Style>
-    <Point>
-      <coordinates>4.900, 52.367 </coordinates>
-    </Point>
-
-  </Placemark>
-</Document>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>CDATA example</name>
+      <description>
+        <![CDATA[
+          <h1>CDATA Tags are useful!</h1>
+          <p><font color="red">Text is <i>more readable</i> and 
+          <b>easier to write</b> when you can avoid using entity 
+          references.</font></p>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>52.367, 4.900</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
 </kml>
