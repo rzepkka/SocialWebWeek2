@@ -9,7 +9,7 @@
       <Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon>
     </Style>
     <Point>
-      <coordinates> 52.367, 4.900, 0</coordinates>
+      <coordinates> 52.367, 4.900</coordinates>
     </Point>
 
   </Placemark>
