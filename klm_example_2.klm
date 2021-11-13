@@ -12,10 +12,10 @@
   </Style>  
   <Placemark>
     <name>Amsterdam</name>
-    <description>Point In Amsterdam .</description>
+    <description>Point In Amsterdam </description>
     <styleUrl>#normalPlacemark</styleUrl>
     <Point>
-      <coordinates> 52.367, 4.900, 0</coordinates>
+      <coordinates>  4.900, 52.367, 0</coordinates>
     </Point>
 
   </Placemark>
