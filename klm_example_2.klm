@@ -15,7 +15,7 @@
     <description>Point In Amsterdam .</description>
     <styleUrl>#normalPlacemark</styleUrl>
     <Point>
-      <coordinates> 52.367, 4.900</coordinates>
+      <coordinates> 52.367, 4.900, 0</coordinates>
     </Point>
 
   </Placemark>
